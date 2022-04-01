@@ -9,6 +9,7 @@ Goal of the project:
 1. Select the best 500 customers amongst the 4000 customers to maximize subscriptions to the loyalty program
 
 2. To calculate the RFM score for each customer we need transaction data which should include the following:
+
     • a unique customer id
    
     • date of transaction/order
