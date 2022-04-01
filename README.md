@@ -9,6 +9,7 @@ RFM (recency, frequency, monetary) analysis is a behavior based technique used 
     • Monetary Value – How much do they averagely spend per purchase? 
 
 Goal of the project:
+
 1. Select the best 500 customers amongst the 4000 customers to maximize subscriptions to the loyalty program
 
 2. To calculate the RFM score for each customer we need transaction data which should include the following:
@@ -18,6 +19,9 @@ Goal of the project:
     • date of transaction/order
     
     • transaction/order amount
+    
+    
+    
     
     
 Benefits of this analysis:
