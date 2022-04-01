@@ -10,5 +10,7 @@ Goal of the project:
 
 2. To calculate the RFM score for each customer we need transaction data which should include the following:
     • a unique customer id
+   
     • date of transaction/order
+    
     • transaction/order amount
